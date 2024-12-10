@@ -1,0 +1,7 @@
+{
+    "command_name": "tackle",
+    "command_help": "Tackle a nearby player",
+    "notify_tackled": "You got tackled!",
+    "keybind_description": "Tackle a nearby player.",
+    "target_label": "Tackle Player"
+}

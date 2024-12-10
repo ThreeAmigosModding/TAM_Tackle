@@ -1,0 +1,7 @@
+{
+    "command_name": "tackle",
+    "command_help": "Einen nahegelegenen Spieler zu Boden bringen",
+    "notify_tackled": "Du wurdest zu Boden gebracht!",
+    "keybind_description": "Einen nahegelegenen Spieler zu Boden bringen.",
+    "target_label": "Tackle Player"
+}

@@ -1,0 +1,7 @@
+{
+    "command_name": "tackle",
+    "command_help": "Plaquer un joueur à proximité",
+    "notify_tackled": "Vous avez été plaqué !",
+    "keybind_description": "Plaquer un joueur à proximité.",
+    "target_label": "Tackle Player"
+}

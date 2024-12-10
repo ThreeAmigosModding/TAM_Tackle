@@ -1,0 +1,7 @@
+{
+    "command_name": "tackle",
+    "command_help": "Derriba a un jugador cercano",
+    "notify_tackled": "¡Te han derribado!",
+    "keybind_description": "Derriba a un jugador cercano.",
+    "target_label": "Tackle Player"
+}
